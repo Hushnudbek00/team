@@ -15,3 +15,6 @@
 
 // # Yuklash
 // git push -u origin main
+
+const array = [1, 2, 3, 4, 5];  
+const promise = new Promise((resolve, reject) => { });
